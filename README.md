@@ -5,7 +5,7 @@
 
 ## Links
 
-[**View the Presentation**](link)  |  [**Download the PDF**](link)  |  [**Visit the Website**](https://cloudplatformonline.com/Summit-Munich-2017.html)
+[**View the Presentation**](https://jfcurran.github.io/171206-googlecloudsummitkeynote/index.html)  |  [**Download the PDF**](https://github.com/jfcurran/171206-googlecloudsummitkeynote/raw/master/171206-googlecloudsummitkeynote.pdf)  |  [**Visit the Website**](https://cloudplatformonline.com/Summit-Munich-2017.html)
 
 
 **Event Description**  
